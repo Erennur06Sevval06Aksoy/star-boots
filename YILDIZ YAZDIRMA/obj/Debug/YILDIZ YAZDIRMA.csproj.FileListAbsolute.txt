@@ -1,0 +1,10 @@
+C:\Users\Lenovo\Desktop\Algoritma Projelerim\C# uygulama\YILDIZ YAZDIRMA\YILDIZ YAZDIRMA\bin\Debug\YILDIZ YAZDIRMA.exe.config
+C:\Users\Lenovo\Desktop\Algoritma Projelerim\C# uygulama\YILDIZ YAZDIRMA\YILDIZ YAZDIRMA\bin\Debug\YILDIZ YAZDIRMA.exe
+C:\Users\Lenovo\Desktop\Algoritma Projelerim\C# uygulama\YILDIZ YAZDIRMA\YILDIZ YAZDIRMA\bin\Debug\YILDIZ YAZDIRMA.pdb
+C:\Users\Lenovo\Desktop\Algoritma Projelerim\C# uygulama\YILDIZ YAZDIRMA\YILDIZ YAZDIRMA\obj\Debug\YILDIZ YAZDIRMA.csprojAssemblyReference.cache
+C:\Users\Lenovo\Desktop\Algoritma Projelerim\C# uygulama\YILDIZ YAZDIRMA\YILDIZ YAZDIRMA\obj\Debug\YILDIZ_YAZDIRMA.Form1.resources
+C:\Users\Lenovo\Desktop\Algoritma Projelerim\C# uygulama\YILDIZ YAZDIRMA\YILDIZ YAZDIRMA\obj\Debug\YILDIZ_YAZDIRMA.Properties.Resources.resources
+C:\Users\Lenovo\Desktop\Algoritma Projelerim\C# uygulama\YILDIZ YAZDIRMA\YILDIZ YAZDIRMA\obj\Debug\YILDIZ YAZDIRMA.csproj.GenerateResource.cache
+C:\Users\Lenovo\Desktop\Algoritma Projelerim\C# uygulama\YILDIZ YAZDIRMA\YILDIZ YAZDIRMA\obj\Debug\YILDIZ YAZDIRMA.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\Algoritma Projelerim\C# uygulama\YILDIZ YAZDIRMA\YILDIZ YAZDIRMA\obj\Debug\YILDIZ YAZDIRMA.exe
+C:\Users\Lenovo\Desktop\Algoritma Projelerim\C# uygulama\YILDIZ YAZDIRMA\YILDIZ YAZDIRMA\obj\Debug\YILDIZ YAZDIRMA.pdb
